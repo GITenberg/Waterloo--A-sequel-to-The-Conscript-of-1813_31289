@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2680
     wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31289#Waterloo--A-sequel-to-The-Conscript-of-1813
 gutenberg_issued: '2010-02-15'
 gutenberg_type: Text
 identifiers:
